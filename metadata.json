@@ -1,0 +1,6 @@
+{
+  "name": "مصالح مارکت",
+  "description": "سامانه آنلاین خرید و استعلام قیمت مصالح ساختمانی، سیمان، آجر و بتن",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
